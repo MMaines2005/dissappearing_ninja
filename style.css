@@ -1,0 +1,16 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+
+img {
+    
+    flex: 1;
+    width: 150px;
+    min-height: 150px;
+}
+ul {
+    list-style: none;
+}
